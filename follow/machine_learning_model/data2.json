@@ -1,0 +1,541 @@
+{
+    "assignment_review_criteria": {
+        "description": "A comprehensive list of 100 high school assignment review criteria, organized by category for easy selection and use.",
+        "categories": [{
+                "name": "1. Content & Understanding (The 'What')",
+                "description": "Focuses on the core knowledge, arguments, and ideas presented.",
+                "criteria": [{
+                        "id": 1,
+                        "criterion": "Completeness",
+                        "description": "All parts of the assignment are present and addressed."
+                    },
+                    {
+                        "id": 2,
+                        "criterion": "Thesis Clarity",
+                        "description": "The main argument or purpose is clearly stated and easily identifiable."
+                    },
+                    {
+                        "id": 3,
+                        "criterion": "Thesis Strength",
+                        "description": "The thesis is insightful, arguable (for persuasive essays), and not merely a statement of fact."
+                    },
+                    {
+                        "id": 4,
+                        "criterion": "Understanding of Topic",
+                        "description": "Demonstrates a strong grasp of the core concepts and subject matter."
+                    },
+                    {
+                        "id": 5,
+                        "criterion": "Accuracy of Information",
+                        "description": "All facts, dates, names, and details are correct."
+                    },
+                    {
+                        "id": 6,
+                        "criterion": "Relevance",
+                        "description": "All content directly supports the main topic or argument (no 'filler')."
+                    },
+                    {
+                        "id": 7,
+                        "criterion": "Depth of Analysis",
+                        "description": "Goes beyond surface-level summary to explore complexities, causes, and effects."
+                    },
+                    {
+                        "id": 8,
+                        "criterion": "Use of Evidence",
+                        "description": "Claims are supported with relevant and sufficient evidence (quotes, data, examples)."
+                    },
+                    {
+                        "id": 9,
+                        "criterion": "Integration of Sources",
+                        "description": "Evidence is smoothly and logically incorporated into the student's own writing."
+                    },
+                    {
+                        "id": 10,
+                        "criterion": "Contextualization",
+                        "description": "Places the topic within a broader context (historical, social, scientific)."
+                    },
+                    {
+                        "id": 11,
+                        "criterion": "Addresses Counterarguments",
+                        "description": "Acknowledges and refutes potential opposing views (for persuasive work)."
+                    },
+                    {
+                        "id": 12,
+                        "criterion": "Originality/Ideas",
+                        "description": "Presents fresh, creative, or independent thinking, not just a summary of others' work."
+                    },
+                    {
+                        "id": 13,
+                        "criterion": "Synthesis",
+                        "description": "Connects ideas from different sources to create a new understanding."
+                    },
+                    {
+                        "id": 14,
+                        "criterion": "Logical Reasoning",
+                        "description": "The thinking process is sound and easy to follow."
+                    },
+                    {
+                        "id": 15,
+                        "criterion": "Addresses the Prompt",
+                        "description": "Answers the specific question or task given, not a similar one."
+                    },
+                    {
+                        "id": 16,
+                        "criterion": "Absence of Plot Summary (Lit)",
+                        "description": "Focuses on analysis rather than just retelling the story."
+                    },
+                    {
+                        "id": 17,
+                        "criterion": "Scientific Reasoning (Science)",
+                        "description": "Correctly applies scientific principles and theories."
+                    },
+                    {
+                        "id": 18,
+                        "criterion": "Mathematical Reasoning (Math)",
+                        "description": "Shows a clear and logical path to the solution."
+                    },
+                    {
+                        "id": 19,
+                        "criterion": "Historical Thinking (History)",
+                        "description": "Demonstrates causation, continuity, and change over time."
+                    },
+                    {
+                        "id": 20,
+                        "criterion": "Cultural Understanding (World Lang.)",
+                        "description": "Shows appropriate understanding of the culture associated with the language."
+                    }
+                ]
+            },
+            {
+                "name": "2. Structure & Organization (The 'How')",
+                "description": "Focuses on the logical flow and arrangement of ideas.",
+                "criteria": [{
+                        "id": 21,
+                        "criterion": "Overall Structure",
+                        "description": "Has a clear beginning, middle, and end (introduction, body, conclusion)."
+                    },
+                    {
+                        "id": 22,
+                        "criterion": "Introduction Effectiveness",
+                        "description": "The intro hooks the reader and provides necessary background."
+                    },
+                    {
+                        "id": 23,
+                        "criterion": "Conclusion Effectiveness",
+                        "description": "The conclusion summarizes main points and provides a final thought, not just repetition."
+                    },
+                    {
+                        "id": 24,
+                        "criterion": "Logical Flow",
+                        "description": "Ideas progress in a sensible and easy-to-follow order."
+                    },
+                    {
+                        "id": 25,
+                        "criterion": "Paragraph Unity",
+                        "description": "Each paragraph focuses on a single main idea."
+                    },
+                    {
+                        "id": 26,
+                        "criterion": "Topic Sentences",
+                        "description": "Each paragraph begins with a sentence that introduces its main point."
+                    },
+                    {
+                        "id": 27,
+                        "criterion": "Transitions (Sentences)",
+                        "description": "Uses transitional phrases to connect sentences within a paragraph."
+                    },
+                    {
+                        "id": 28,
+                        "criterion": "Transitions (Paragraphs)",
+                        "description": "Uses transitional phrases or sentences to connect one paragraph to the next."
+                    },
+                    {
+                        "id": 29,
+                        "criterion": "Pacing",
+                        "description": "The assignment doesn't feel rushed or dragged out; time is managed well."
+                    },
+                    {
+                        "id": 30,
+                        "criterion": "Balance",
+                        "description": "Sections are appropriately balanced in terms of length and depth (e.g., intro/conclusion not too long)."
+                    },
+                    {
+                        "id": 31,
+                        "criterion": "Use of Headings/Subheadings",
+                        "description": "If applicable, headings are clear and useful for navigation."
+                    },
+                    {
+                        "id": 32,
+                        "criterion": "Lab Report Format (Science)",
+                        "description": "Adheres to the standard sections (Purpose, Hypothesis, Procedure, etc.)."
+                    },
+                    {
+                        "id": 33,
+                        "criterion": "Story Arc (Creative Writing)",
+                        "description": "Effectively uses elements like exposition, rising action, climax, and resolution."
+                    }
+                ]
+            },
+            {
+                "name": "3. Evidence & Research (The 'Proof')",
+                "description": "Focuses on the quality and use of sources.",
+                "criteria": [{
+                        "id": 34,
+                        "criterion": "Quantity of Sources",
+                        "description": "Meets or exceeds the minimum number of required sources."
+                    },
+                    {
+                        "id": 35,
+                        "criterion": "Quality of Sources",
+                        "description": "Uses credible, academic, and appropriate sources (e.g., no wiki as a primary source)."
+                    },
+                    {
+                        "id": 36,
+                        "criterion": "Source Variety",
+                        "description": "Uses a mix of sources (books, journals, primary documents, etc.) where appropriate."
+                    },
+                    {
+                        "id": 37,
+                        "criterion": "Citation Accuracy (In-text)",
+                        "description": "All in-text citations are correctly formatted (MLA, APA, etc.)."
+                    },
+                    {
+                        "id": 38,
+                        "criterion": "Works Cited/Bibliography",
+                        "description": "The final page is correctly formatted and complete."
+                    },
+                    {
+                        "id": 39,
+                        "criterion": "Source Integration",
+                        "description": "Sources are used to support the argument, not to replace the student's own voice."
+                    },
+                    {
+                        "id": 40,
+                        "criterion": "Quotation Accuracy",
+                        "description": "Quotations are copied exactly as they appear in the original source."
+                    },
+                    {
+                        "id": 41,
+                        "criterion": "Paraphrasing Effectiveness",
+                        "description": "Ideas from sources are put into the student's own words correctly and ethically."
+                    },
+                    {
+                        "id": 42,
+                        "criterion": "No Plagiarism",
+                        "description": "All sources are properly credited; the work is original."
+                    },
+                    {
+                        "id": 43,
+                        "criterion": "Evaluation of Sources",
+                        "description": "Demonstrates an ability to discern bias or reliability in a source."
+                    }
+                ]
+            },
+            {
+                "name": "4. Style & Voice (The 'Flair')",
+                "description": "Focuses on the tone, word choice, and overall readability.",
+                "criteria": [{
+                        "id": 44,
+                        "criterion": "Clarity",
+                        "description": "Sentences are clear and easy to understand on the first read."
+                    },
+                    {
+                        "id": 45,
+                        "criterion": "Conciseness",
+                        "description": "Writing is tight and efficient; no unnecessary words or repetition."
+                    },
+                    {
+                        "id": 46,
+                        "criterion": "Word Choice (Diction)",
+                        "description": "Uses precise and vivid vocabulary appropriate for the subject."
+                    },
+                    {
+                        "id": 47,
+                        "criterion": "Tone",
+                        "description": "The tone is appropriate for the audience and purpose (e.g., formal for a report, creative for a story)."
+                    },
+                    {
+                        "id": 48,
+                        "criterion": "Voice",
+                        "description": "The writer's unique personality or perspective comes through (where appropriate)."
+                    },
+                    {
+                        "id": 49,
+                        "criterion": "Sentence Variety",
+                        "description": "Uses a mix of short and long, simple and complex sentences."
+                    },
+                    {
+                        "id": 50,
+                        "criterion": "Active Voice",
+                        "description": "Prefers active voice (e.g., 'The dog chased the ball') over passive voice ('The ball was chased by the dog')."
+                    },
+                    {
+                        "id": 51,
+                        "criterion": "Formal Language",
+                        "description": "Avoids slang, clichés, and colloquialisms (unless used deliberately)."
+                    },
+                    {
+                        "id": 52,
+                        "criterion": "Figurative Language (Creative)",
+                        "description": "Effective use of metaphor, simile, and imagery."
+                    },
+                    {
+                        "id": 53,
+                        "criterion": "Engagement",
+                        "description": "The writing is interesting and holds the reader's attention."
+                    },
+                    {
+                        "id": 54,
+                        "criterion": "Audience Awareness",
+                        "description": "The writing style is tailored to the intended reader."
+                    }
+                ]
+            },
+            {
+                "name": "5. Mechanics & Conventions (The 'Polish')",
+                "description": "Focuses on the rules of grammar and formatting.",
+                "criteria": [{
+                        "id": 55,
+                        "criterion": "Grammar",
+                        "description": "Free of errors in sentence structure (fragments, run-ons)."
+                    },
+                    {
+                        "id": 56,
+                        "criterion": "Usage",
+                        "description": "Correct use of words (e.g., their/there/they're, affect/effect)."
+                    },
+                    {
+                        "id": 57,
+                        "criterion": "Punctuation",
+                        "description": "Correct use of periods, commas, semicolons, colons, etc."
+                    },
+                    {
+                        "id": 58,
+                        "criterion": "Capitalization",
+                        "description": "Correct use of capital letters."
+                    },
+                    {
+                        "id": 59,
+                        "criterion": "Spelling",
+                        "description": "All words are spelled correctly."
+                    },
+                    {
+                        "id": 60,
+                        "criterion": "Subject-Verb Agreement",
+                        "description": "Subjects and verbs agree in number."
+                    },
+                    {
+                        "id": 61,
+                        "criterion": "Pronoun Agreement",
+                        "description": "Pronouns agree with their antecedents in number and gender."
+                    },
+                    {
+                        "id": 62,
+                        "criterion": "Apostrophe Use",
+                        "description": "Correct use of apostrophes for possessives and contractions."
+                    },
+                    {
+                        "id": 63,
+                        "criterion": "Tense Consistency",
+                        "description": "Verb tenses are consistent throughout the piece."
+                    },
+                    {
+                        "id": 64,
+                        "criterion": "Paragraphing",
+                        "description": "Correct indentation or spacing for new paragraphs."
+                    },
+                    {
+                        "id": 65,
+                        "criterion": "Proofreading",
+                        "description": "Shows evidence of careful final review (no typos)."
+                    }
+                ]
+            },
+            {
+                "name": "6. Formatting & Presentation (The 'Package')",
+                "description": "Focuses on the physical or digital appearance of the work.",
+                "criteria": [{
+                        "id": 66,
+                        "criterion": "Margins",
+                        "description": "Correct margins are used (e.g., 1 inch on all sides)."
+                    },
+                    {
+                        "id": 67,
+                        "criterion": "Font",
+                        "description": "Correct font type and size is used (e.g., Times New Roman, 12 pt)."
+                    },
+                    {
+                        "id": 68,
+                        "criterion": "Spacing",
+                        "description": "Correct line spacing is used (e.g., double-spaced)."
+                    },
+                    {
+                        "id": 69,
+                        "criterion": "Header/Heading",
+                        "description": "Student name, date, course, and teacher name are included and formatted correctly."
+                    },
+                    {
+                        "id": 70,
+                        "criterion": "Page Numbers",
+                        "description": "Pages are correctly numbered."
+                    },
+                    {
+                        "id": 71,
+                        "criterion": "Title Page",
+                        "description": "If required, it is formatted correctly."
+                    },
+                    {
+                        "id": 72,
+                        "criterion": "Visuals (if applicable)",
+                        "description": "Images, graphs, or tables are clear, labeled, and referenced in the text."
+                    },
+                    {
+                        "id": 73,
+                        "criterion": "Neatness (Handwritten)",
+                        "description": "Writing is legible and the paper is clean (no tears, smudges)."
+                    },
+                    {
+                        "id": 74,
+                        "criterion": "File Naming (Digital)",
+                        "description": "The digital file is named correctly (e.g., 'Smith_J_Essay.docx')."
+                    },
+                    {
+                        "id": 75,
+                        "criterion": "Submitted on Time",
+                        "description": "The assignment was submitted by the deadline."
+                    },
+                    {
+                        "id": 76,
+                        "criterion": "Correct File Format (Digital)",
+                        "description": "File is submitted in the required format (.pdf, .docx)."
+                    }
+                ]
+            },
+            {
+                "name": "7. Creativity & Process (The 'Extra')",
+                "description": "Focuses on the effort and creative elements beyond the basic requirements.",
+                "criteria": [{
+                        "id": 77,
+                        "criterion": "Effort",
+                        "description": "The assignment shows a clear investment of time and care."
+                    },
+                    {
+                        "id": 78,
+                        "criterion": "Risk-Taking",
+                        "description": "The student attempted a challenging approach or idea."
+                    },
+                    {
+                        "id": 79,
+                        "criterion": "Creativity/Originality",
+                        "description": "The project demonstrates unique thinking in format or content."
+                    },
+                    {
+                        "id": 80,
+                        "criterion": "Followed Instructions",
+                        "description": "Adhered to all specific instructions for the task."
+                    },
+                    {
+                        "id": 81,
+                        "criterion": "Met Length Requirement",
+                        "description": "Falls within the required page or word count."
+                    },
+                    {
+                        "id": 82,
+                        "criterion": "Reflection (if applicable)",
+                        "description": "Demonstrates thoughtful reflection on the learning process."
+                    },
+                    {
+                        "id": 83,
+                        "criterion": "Collaboration (Group Work)",
+                        "description": "Worked effectively with peers and contributed fairly."
+                    },
+                    {
+                        "id": 84,
+                        "criterion": "Peer Review Participation",
+                        "description": "Gave and received feedback thoughtfully."
+                    },
+                    {
+                        "id": 85,
+                        "criterion": "Draft Revisions",
+                        "description": "Showed evidence of meaningful changes between draft and final version."
+                    },
+                    {
+                        "id": 86,
+                        "criterion": "Incorporated Feedback",
+                        "description": "Applied teacher or peer feedback to improve the final product."
+                    },
+                    {
+                        "id": 87,
+                        "criterion": "Self-Assessment",
+                        "description": "Accurately assessed their own strengths and weaknesses on the assignment."
+                    },
+                    {
+                        "id": 88,
+                        "criterion": "Oral Presentation (if applicable)",
+                        "description": "Spoke clearly, made eye contact, and was well-prepared."
+                    },
+                    {
+                        "id": 89,
+                        "criterion": "Visual Design (for projects)",
+                        "description": "The project is visually appealing and well-organized."
+                    },
+                    {
+                        "id": 90,
+                        "criterion": "Use of Class Time",
+                        "description": "Used in-class work time effectively and productively."
+                    },
+                    {
+                        "id": 91,
+                        "criterion": "Annotated Bibliography (if applicable)",
+                        "description": "Includes summaries or evaluations of sources."
+                    },
+                    {
+                        "id": 92,
+                        "criterion": "Hypothesis (Science)",
+                        "description": "Hypothesis is testable and clearly stated."
+                    },
+                    {
+                        "id": 93,
+                        "criterion": "Procedure (Science)",
+                        "description": "Procedure is detailed enough to be replicated."
+                    },
+                    {
+                        "id": 94,
+                        "criterion": "Data Presentation (Science/Math)",
+                        "description": "Data is presented clearly in tables or graphs."
+                    },
+                    {
+                        "id": 95,
+                        "criterion": "Error Analysis (Science)",
+                        "description": "Acknowledges potential sources of error in an experiment."
+                    },
+                    {
+                        "id": 96,
+                        "criterion": "Problem Set-up (Math)",
+                        "description": "Shows all steps and formulas used to solve a problem."
+                    },
+                    {
+                        "id": 97,
+                        "criterion": "Final Answer (Math)",
+                        "description": "The final answer is clearly indicated and includes correct units."
+                    },
+                    {
+                        "id": 98,
+                        "criterion": "Artistic Merit (Arts)",
+                        "description": "Demonstrates skill, technique, and intentionality."
+                    },
+                    {
+                        "id": 99,
+                        "criterion": "Performance (Music/Drama)",
+                        "description": "Demonstrates preparation, skill, and expression."
+                    },
+                    {
+                        "id": 100,
+                        "criterion": "Overall Impact",
+                        "description": "The overall effect of the assignment is powerful, memorable, or highly effective."
+                    }
+                ]
+            }
+        ]
+    }
+}
