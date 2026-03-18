@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=birukahmye&color=blue"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
+</p>
